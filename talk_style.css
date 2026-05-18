@@ -1,0 +1,35 @@
+.talk{
+    background:rgb(174, 242, 174);
+};
+
+.character{
+    float:right;
+    margin-left:20px;
+};
+
+.describe{
+    background:lightskyblue;
+    overflow:hidden;
+}
+
+.describe_container{
+    display:flex;
+    background:lightskyblue;
+}
+
+.body_container{
+    background:lightyellow;
+}
+
+.other_setting{
+    background:rgb(225,190,190);
+}
+
+.contact{
+    background:rgb(240,248,255);
+}
+
+.contact:hover{
+    background:aquamarine;
+}
+

@@ -1,0 +1,26 @@
+.selection_container{
+    display:flex;
+}
+
+.dydx_intro{
+    float:right;
+    margin-left:20px;
+}
+
+.self_intro{
+    overflow:hidden;
+    float:right;
+}
+
+.oc_intro{
+    overflow:hidden;
+    float:right;
+}
+
+.contact{
+    background:lightyellow;
+}
+
+.body_container{
+    background:lightpink;
+}
