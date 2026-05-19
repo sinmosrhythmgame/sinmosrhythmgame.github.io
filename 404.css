@@ -1,5 +1,9 @@
 .body{
-    color:lightgray;
+    color:gray;
+    text-align:center;
+}
+
+.title{
     text-align:center;
 }
 
