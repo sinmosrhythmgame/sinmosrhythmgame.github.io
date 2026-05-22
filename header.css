@@ -1,0 +1,31 @@
+.header{
+    background:lightpink;
+    display:flex;
+    justify-content: space-between;
+}
+
+.logo_name{
+    display:flex;
+    align-content:center;
+}
+
+.header_button{
+    color:blue;
+    text-decoration:none;
+    margin-left:20px;
+}
+
+.header_button:hover{
+    color:violet;
+    background:lightgreen;
+}
+
+#logo{
+    width:50px;
+    height:50px;
+}
+
+.button{
+    display:flex;
+    align-content:center;
+}
