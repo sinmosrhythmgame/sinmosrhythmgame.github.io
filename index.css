@@ -4,21 +4,32 @@
     flex-wrap:wrap;
 }
 
-.a_button{
-    display:inline-block;
-    background:lightyellow;
+.header{
+    background:lightpink;
+    display:flex;
+    justify-content: space-between;
+}
+
+.logo_name{
+    display:flex;
+    align-content:center;
+}
+
+.header_button{
+    color:blue;
     text-decoration:none;
-    border:1px black;
+    margin-left:20px;
 }
 
-.a_button:hover{
-    display:inline-block;
-    background:lightblue;
-    text-decoration:none; 
-    border:1px black;
+.header_button:hover{
+    color:violet;
+    background:lightgreen;
 }
 
-
+.button{
+    display:flex;
+    align-content:center;
+}
 
 .contact{
     background:lightpink;
